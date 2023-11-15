@@ -10,17 +10,17 @@ The information of 3 input datasetsis are listed in Table 1.
 
 Each different type of data contains 20 questions, and the information is listed in Table 2.
 
-(images/dataset_attribute.png)
+![Dataset Attribute](images/dataset_attribute.png)
 
 ## Learning Curve Result
 
 We use different models to compare the performance, including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, k-Nearest Neighbours (KNN), Artificial Neural Network (ANN), Convolutional Neural Network (CNN) over 3 datasets: Adult, Children, and Adolescent. 
 
-(images/adult_learning_curve.png)
+![Adult Learning Curve](images/adult_learning_curve.png)
 
-(images/children_learning_curve.png)
+![Children Learning Curve](images/children_learning_curve.png)
 
-(images/adolescent_learning_curve.png)
+![Adolescent Learning Curve](images/adolescent_learning_curve.png)
 
 ## Requirements
 
@@ -41,4 +41,6 @@ Choose the latest versions of any of the dependencies below:
 
 ## References
 
-The dataset copyright  is located in dataset-source file
+The dataset copyright  is located in dataset-source file.
+
+Raj, S., & Masood, S. (2020). Analysis and Detection of Autism Spectrum Disorder Using Machine Learning Techniques. Procedia Computer Science, 167, 994-1004.
