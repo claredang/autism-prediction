@@ -1,4 +1,4 @@
-# Fashion MNIST Image Classification
+# Autistic Spectrum Disorder Prediction using Machine Learning Technique
 
 Autistic Spectrum Disorder (ASD) refers to a group of developmental disorders that affect the nervous system. Some of the most common ASD symptoms include impairment, challenges in social interaction, and repetitive behaviour that affect communication. ASD has a significant impact on health care not only due to the number of ASD cases raising but also the time involved to diagnose ASD. Moving in line with the rise in machine learning to speed up the time to detect a disease using existing data, the goal is to construct a model that accurately predicts whether an individual has ASD or not in order to provide early intervention for those who has a high chance of having ASD later. 
 
